@@ -1,0 +1,9 @@
+/* Portfolio Projects card-set */
+
+.projects-card-set {
+  @extend %list;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  

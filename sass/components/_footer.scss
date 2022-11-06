@@ -1,0 +1,37 @@
+/* footer */
+
+.footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  
+    background-color: var(--dark-bg-color);
+  }
+  
+  .footer__container {
+    display: flex;
+    align-items: baseline;
+  }
+  
+  .footer__contacts {
+    margin-right: 70px;
+  }
+  
+  .footer__socials {
+    margin-right: 93px;
+  }
+  
+  .footer__title {
+    margin-top: 0;
+    margin-bottom: 20px;
+  
+    color: var(--color-white);
+    font-size: 14px;
+    line-height: 1.14;
+    text-transform: uppercase;
+  }
+  
+  .footer__subscribe {
+    display: flex;
+    gap: 12px;
+  }
+  

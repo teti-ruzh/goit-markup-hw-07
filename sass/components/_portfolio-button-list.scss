@@ -1,0 +1,10 @@
+/* Portfolio buttons*/
+
+.buttons-list {
+  @extend %list;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 50px;
+  }
+  
